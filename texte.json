@@ -1,0 +1,37 @@
+{
+    "1": {
+        "inhalt": "Eine Kraft F = 25 N soll in zwei rechtwinklig aufeinander stehende Komponenten F1 und F2 zerlegt werden. Die Wirklinien von F und F1 sollen den Winkel alpha = 35° einschließen. Berechnen Sie die Beträge von F1 und F2.",
+        "id": 1,
+        "task-id": "1.2",
+        "Schwierigkeit": "leicht",
+        "Typ": "Grundlagen"
+    },
+    "2": {
+        "inhalt": "Unter einem Winkel von 135° wirken zwei Kräfte F1 = 70 N und F2 = 105 N am gleichen Angriffspunkt. Der Richtungswinkel alpha_1 (Winkel zwischen der positiven x-Achse eines rechtwinkligen Achsenkreuzes und der Kraftwirklinie) beträgt 0°. Gesucht: a) Berechnen Sie den Betrag der Resultierenden und b) den Richtungswinkel alpha_r der Resultierenden.",
+        "id": 2,
+        "task-id": "1.3",
+        "Schwierigkeit": "mittel",
+        "Typ": "Grundlagen"
+    },
+    "3": {
+        "inhalt": "Zerlegen Sie analytisch und grafisch eine Kraft von F = 3600 N in zwei Komponenten F1 und F2, deren Wirkungslinien unter den Winkeln alpha_1 = 90° und alpha_2 = 45° zur Wirkungslinie von F liegen.  Wie groß sind die Beträge der Kräfte F1 und F2? ",
+        "id": 3,
+        "task-id": "1.4",
+        "Schwierigkeit": "mittel",
+        "Typ": "Grundlagen"
+    },
+    "4": {
+        "inhalt": "Zwei gleich große Kräfte F schließen einen Winkel alpha = 70° ein. Ihre Resultierende beträgt Fr = 73 kN. Ermitteln Sie die Beträge der beiden Kräfte F.",
+        "id": 4,
+        "task-id": "1.5",
+        "Schwierigkeit": "mittel",
+        "Typ": "Grundlagen"
+    },
+    "5": {
+        "inhalt": "Es liegt folgende Situation vor: Seil 1 ist mit einem Winkel von 60° zur Horizontalen nach unten geneigt und befindet sich links. Seil 2 ist mit einem Winkel von 30° nach unten geneigt und befindet sich rechts. Beide Seile sind an einem Punkt verbunden, an dem auch eine Gewichtskraft F_G wirkt.  An zwei Seilen hängt eine Masse mit der Gewichtskraft FG. Wie groß sind die Komponenten der Kraft FG = 10 kN in Richtung der Seile 1 und 2?",
+        "id": 5,
+        "task-id": "2.1",
+        "Schwierigkeit": "schwer",
+        "Typ": "zentrales Kraftsystem"
+    }
+}
